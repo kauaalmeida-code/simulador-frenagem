@@ -3,8 +3,8 @@
 Projeto Integrador Científico Aplicado desenvolvido para o curso de Engenharia de Computação do Centro Universitário ENIAC.
 
 ## 👥 Desenvolvedores
-- **Kauã Almeida Lima** (RA: 233592024)
-- **Nicolle Caroline Mota** (RA: 211052023)
+- **Kauã Almeida Lima** 
+- **Nicolle Caroline Mota** 
 
 ## 🎯 Objetivo do Projeto
 Transformar um fenômeno físico em um modelo matemático e, posteriormente, em um sistema computacional interativo. O sistema permite analisar como fatores como velocidade inicial, tempo de reação e coeficiente de atrito influenciam a distância total até a parada de um veículo.
@@ -29,7 +29,7 @@ Transformar um fenômeno físico em um modelo matemático e, posteriormente, em 
    ```
 5. O simulador abrirá automaticamente no seu navegador padrão.
 
-## 📸 Evidências e Protótipos (Sprint 2)
+## 📸 Evidências e Protótipos
 
 *Adicione aqui as fotos da interface do sistema e do experimento prático! Substitua os links abaixo pelas imagens que vocês tiraram.*
 
