@@ -34,8 +34,8 @@ Transformar um fenômeno físico em um modelo matemático e, posteriormente, em 
 *Adicione aqui as fotos da interface do sistema e do experimento prático! Substitua os links abaixo pelas imagens que vocês tiraram.*
 
 <p align="center">
-  <img src="link-da-imagem-da-interface-aqui.png" alt="Interface do Simulador" width="400"/>
-  <img src="link-da-foto-do-carrinho-aqui.png" alt="Experimento com o Carrinho" width="400"/>
+  <img src="interface.png" alt="Interface do Simulador" width="400"/>
+  <img src="carrinho.png" alt="Experimento com o Carrinho" width="400"/>
 </p>
 
 ## 🔬 Metodologia e Experimento Físico
