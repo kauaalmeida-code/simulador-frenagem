@@ -36,6 +36,7 @@ Transformar um fenômeno físico em um modelo matemático e, posteriormente, em 
 <p align="center">
   <img src="interface.png" alt="Interface do Simulador" width="400"/>
   <img src="carrinho.png" alt="Experimento com o Carrinho" width="400"/>
+  <img src="carbon-simulador-frenagem.png" alt="Código Fonte" width="400"/>
 </p>
 
 ## 🔬 Metodologia e Experimento Físico
