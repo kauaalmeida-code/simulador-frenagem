@@ -32,8 +32,8 @@ Transformar um fenômeno físico em um modelo matemático e, posteriormente, em 
 ## 📸 Evidências e Protótipos
 
 <p align="center">
-  <img src="interface.png" alt="Interface do Simulador" width="400"/>
-  <img src="carrinho.png" alt="Experimento com o Carrinho" width="400"/>
+  <img src="assets/images/interface.png" alt="Interface do Simulador" width="400"/>
+  <img src="assets/images/carrinho.png" alt="Experimento com o Carrinho" width="400"/>
 </p>
 
 ## 🧑‍💻 Código-fonte do Simulador
@@ -41,7 +41,7 @@ Transformar um fenômeno físico em um modelo matemático e, posteriormente, em 
 O [código-fonte completo](simulador.py) implementa o cálculo da distância de reação e de frenagem, gera os gráficos do movimento e apresenta uma animação interativa no navegador.
 
 <p align="center">
-  <img src="carbon-simulador-frenagem.png" alt="Código-fonte do simulador de frenagem em Python" width="700"/>
+  <img src="assets/images/carbon-simulador-frenagem.png" alt="Código-fonte do simulador de frenagem em Python" width="700"/>
 </p>
 
 <p align="center"><em>Implementação do simulador em Python com Streamlit, NumPy e Matplotlib.</em></p>
